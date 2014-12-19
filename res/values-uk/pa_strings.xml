@@ -35,4 +35,14 @@
     <string name="cyan">Блакитний</string>
     <string name="grey">Сірий</string>
     <string name="default_string">За замовчуванням</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Вибір кольору</string>
+    <string name="press_color_to_apply">ННатисніть на колір для вибору</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Встановити</string>
+    <string name="color_default">Заз замовчуванням</string>
 </resources>
